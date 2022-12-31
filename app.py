@@ -12,3 +12,4 @@ def hello():
 # this is to automatically run the app  
 if __name__ == "__main__":         
     app.run()
+    
